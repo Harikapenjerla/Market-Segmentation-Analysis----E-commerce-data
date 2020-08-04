@@ -49,7 +49,8 @@ Cluster2: Customers who are Inactive, lost etc. “Others” Cluster.
 
 ## Geolocation & Customer Segmentation Dashboard:
 Created dashboards using tableau below is the screenshot of dashboard. 
- 
+![image](https://user-images.githubusercontent.com/54416525/89240408-00197580-d5ca-11ea-9110-5ab393c243c4.png)
+![image](https://user-images.githubusercontent.com/54416525/89240421-0576c000-d5ca-11ea-9d05-00e2282766c4.png)
  
 ## References:
 https://www.kaggle.com/olistbr/brazilian-ecommerce
