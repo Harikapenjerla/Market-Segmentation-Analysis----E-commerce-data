@@ -51,7 +51,16 @@ Created dashboards using tableau below is the screenshot of dashboard. <br />
 ![image](https://user-images.githubusercontent.com/54416525/89240408-00197580-d5ca-11ea-9110-5ab393c243c4.png) <br />
 
 ![image](https://user-images.githubusercontent.com/54416525/89240421-0576c000-d5ca-11ea-9d05-00e2282766c4.png) <br />
+
+
+## Insights and Conclusion:
+The main contribution of this two-stage modelling plus Dashboard building to current scholarly discourse is that it provides a more data-driven approach in generating the business strategies for stakeholders. This methodology can be readily applied to other customer segmentation and other Quantitative Marketing Analysis. Because the clustering process consists only of unsupervised learning techniques, some clusters may have no economic explanations, hence resulting in less significance when regressed against the data.<br /> 
+• By using customer segmentation analysis, we can mainly focus on the special offers/promotions to increase loyalty among customers. Also select best communication channel for each group of customers and improve marketing strategies. For example, the product promotion can prioritize based on the recency, other customers segments who is likely to make purchases. Loyal customers need more attention in this business so by providing more promotions/offers can be a useful strategy. <br />
+• Credit cards is the most used Payment type by the customers so to improve customer satisfaction by offering credit card rewards points. Sales forecasting for the next 30 days seems to be around 130 million dollars which is less than last two months. So, it necessary improve customer online experience and product categories. <br />
+• Time series prediction results shows that the next 15 days, the sales could potentially hit low. This could assist organization officials in taking a better decision. 
+• The dashboard assists with the visual interpretation on various aspects of the data like customer segmentations, product segmentations and geo location analysis. <br />
  
+
 ## References:
 https://www.kaggle.com/olistbr/brazilian-ecommerce <br />
 http://en.wikipedia.org/wiki/RFM_(market_research) <br />
