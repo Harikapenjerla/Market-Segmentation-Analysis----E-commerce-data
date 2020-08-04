@@ -14,14 +14,13 @@ Note:
 An autoregressive (AR) model predicts future behavior based on past behavior. It is used for forecasting when there is some correlation between values in a time series and the values that precede and succeed them. You only use past data to model the behavior, hence the name autoregressive. The process is basically linear regression of the data in the current series against one or more past values in the same series. 
 An AR(p) model is an autoregressive model where specific lagged values of yt are used as predictor variables. Lags are where results from one time period affect following periods. 
 The value for “p” is called the order. For example, an AR would be a “first order autoregressive process.” The outcome variable in a first order AR process at some point in time t is related only to time periods that are one period apart (i.e. the value of the variable at t – 1). A second or third order AR process would be related to data two or three periods apart. 
-The AR(p) model is defined by the equation: 
-yt = δ + φ1yt-1 + φ2yt-2 + … + φpyt-1 + At 
-Where: 
-•	• yt-1, yt-2…yt-p are the past series values (lags), 
-•	• At is white noise (i.e. randomness), 
-•	• and δ is defined by the following equation: 
-
-Where μ is mean.
+The AR(p) model is defined by the equation: <br />
+yt = δ + φ1yt-1 + φ2yt-2 + … + φpyt-1 + At <br />
+Where: <br />
+•	• yt-1, yt-2…yt-p are the past series values (lags), <br />
+•	• At is white noise (i.e. randomness), <br />
+•	• and δ is defined by the following equation: <br />
+Where μ is mean.<br />
 The final model forecasted plot with the prediction values of next 30 days. We restricted our predictions to 30 days since the sales are highly dynamic and we should be very cautions while predicting for longer time periods.
 
 ![image](https://user-images.githubusercontent.com/54416525/89240299-ba5cad00-d5c9-11ea-8e8b-7a23a2d0c892.png)
@@ -41,17 +40,17 @@ K-means model gives the following four clusters
 ![image](https://user-images.githubusercontent.com/54416525/89240360-e2e4a700-d5c9-11ea-9c4a-9a545ed773c3.png)
 
 From above k-means clustering analysis with 4 clusters. 
-Cluster1: Customers who spend more “Big Spenders” Cluster. 
-Cluster3: Customers who spend recently.” Most Recent” Cluster.
-Cluster4: Customers who spend frequently. “Loyal Customers” Cluster. 
-Cluster2: Customers who are Inactive, lost etc. “Others” Cluster.
+Cluster1: Customers who spend more “Big Spenders” Cluster. <br />
+Cluster3: Customers who spend recently.” Most Recent” Cluster.<br />
+Cluster4: Customers who spend frequently. “Loyal Customers” Cluster. <br />
+Cluster2: Customers who are Inactive, lost etc. “Others” Cluster.<br />
 
 
 ## Geolocation & Customer Segmentation Dashboard:
-Created dashboards using tableau below is the screenshot of dashboard. 
-![image](https://user-images.githubusercontent.com/54416525/89240408-00197580-d5ca-11ea-9110-5ab393c243c4.png)
+Created dashboards using tableau below is the screenshot of dashboard. <br />
+![image](https://user-images.githubusercontent.com/54416525/89240408-00197580-d5ca-11ea-9110-5ab393c243c4.png) <br />
 
-![image](https://user-images.githubusercontent.com/54416525/89240421-0576c000-d5ca-11ea-9d05-00e2282766c4.png)
+![image](https://user-images.githubusercontent.com/54416525/89240421-0576c000-d5ca-11ea-9d05-00e2282766c4.png) <br />
  
 ## References:
 https://www.kaggle.com/olistbr/brazilian-ecommerce <br />
