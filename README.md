@@ -50,17 +50,18 @@ Cluster2: Customers who are Inactive, lost etc. “Others” Cluster.
 ## Geolocation & Customer Segmentation Dashboard:
 Created dashboards using tableau below is the screenshot of dashboard. 
 ![image](https://user-images.githubusercontent.com/54416525/89240408-00197580-d5ca-11ea-9110-5ab393c243c4.png)
+
 ![image](https://user-images.githubusercontent.com/54416525/89240421-0576c000-d5ca-11ea-9d05-00e2282766c4.png)
  
 ## References:
-https://www.kaggle.com/olistbr/brazilian-ecommerce
-http://en.wikipedia.org/wiki/RFM_(market_research)
-https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1 
-https://machinelearningmastery.com/autoregression-models-time-series-forecasting-python/ 
-https://www.tableau.com/learn/tutorials/on-demand/dashboard-interactivity-using-actions 
-https://machinelearningmastery.com/how-to-use-correlation-to-understand-the-relationship-between-variables/
-https://www.business2community.com/customer-experience/4-types-of-customer-segmentation-all-marketers-should-know-02120397 
-https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-build.html 
-https://www.tableau.com/solutions/marketing-analytics
+https://www.kaggle.com/olistbr/brazilian-ecommerce <br />
+http://en.wikipedia.org/wiki/RFM_(market_research) <br />
+https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1 <br />
+https://machinelearningmastery.com/autoregression-models-time-series-forecasting-python/ <br />
+https://www.tableau.com/learn/tutorials/on-demand/dashboard-interactivity-using-actions <br />
+https://machinelearningmastery.com/how-to-use-correlation-to-understand-the-relationship-between-variables/ <br />
+https://www.business2community.com/customer-experience/4-types-of-customer-segmentation-all-marketers-should-know-02120397 <br />
+https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-build.html <br />
+https://www.tableau.com/solutions/marketing-analytics <br />
 
 
