@@ -1,4 +1,4 @@
-# Market-Segmentation-Analysis----> E-commerce-data
+# Market-Segmentation-Analysis for E-commerce data
 
 Brazilian E-commerce real data of orders at Olist store. Dataset consist of 100000 orders from 2016 to 2018. The dataset has many variables like order status, price, payment method, customer location, reviews from customers, product attributes and geolocation (latitude/longitude). 
 Note:
