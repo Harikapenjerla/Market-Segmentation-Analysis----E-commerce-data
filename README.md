@@ -73,3 +73,10 @@ https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-t
 https://www.tableau.com/solutions/marketing-analytics <br />
 
 
+## Note:
+Time series forecasting is done in python <br />
+Customer Segmentation Using RFM values and K-Means is done in R <br />
+Dashboards in tableau.
+
+Please let me know any suggestions.TIA.
+
