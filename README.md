@@ -23,6 +23,8 @@ Where:
 
 Where μ is mean.
 The final model forecasted plot with the prediction values of next 30 days. We restricted our predictions to 30 days since the sales are highly dynamic and we should be very cautions while predicting for longer time periods.
+
+![image](https://user-images.githubusercontent.com/54416525/89240299-ba5cad00-d5c9-11ea-8e8b-7a23a2d0c892.png)
  
 ## Customer Segmentation using RFM values and K-means:
 Customer segmentation is used in marketing to better understand customer behavior of the business. The most common types of customer segmentation are 
