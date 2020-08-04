@@ -74,9 +74,9 @@ https://www.tableau.com/solutions/marketing-analytics <br />
 
 
 ## Note:
-Time series forecasting is done in python <br />
-Customer Segmentation Using RFM values and K-Means is done in R <br />
-Dashboards in tableau.
+Time series forecasting is done in python, filename as TimeSeries Forecasting.ipynb and TimeSeries Forecasting.html <br />
+Customer Segmentation Using RFM values and K-Means is done in R, filename as Clustering.R and Clustering.html <br />
+Dashboards in tableau, filename as Clustering.twb, Geospatial Analysis.twbx.
 
 Please let me know any suggestions.TIA.
 
